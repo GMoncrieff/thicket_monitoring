@@ -6,5 +6,5 @@ https://www.lentilcurtain.com/posts/near-real-time-detection-of-land-cover-chang
 
 for more info email:
 
-Glenn Moncrieff
+Glenn Moncrieff  
 <glenn@saeon.ac.za>
